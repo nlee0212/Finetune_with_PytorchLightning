@@ -1,4 +1,4 @@
-# UpDown Prediction Language Model using Twitter
+# Code for Finetuning Models with Pytorch Lightning
 
 ## Modules
 ```c_dataset.py``` : train/test에 활용될 Dataset 구성에 사용되는 CustomDataset class 정의. filtering할 데이터인지, preprocess된 데이터인지에 따라 데이터셋 디렉토리 및 전처리 진행 여부 결정\
